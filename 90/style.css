@@ -1,0 +1,9 @@
+body{
+    background-color:maroon;
+}
+div{
+    background-color: whitesmoke;
+    width: 40%;
+    height: 25%;
+    border-radius: 20px;
+}
